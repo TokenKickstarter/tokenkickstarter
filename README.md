@@ -8,7 +8,7 @@ Ticker : TKS token
 
 Official Website: https://tokenkickstarter.com
 
-Twitter: https://x.com/TokenKickstart
+Twitter: https://x.com/tokenkickstarts
 
 Telegram: https://t.me/tokenkickstarter
 
